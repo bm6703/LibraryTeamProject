@@ -1,0 +1,12 @@
+<?xml version="1.0"?><monthly>	<event>		<id>1</id>		<name>XML Events</name>		<startdate>2017-1-2</startdate>		<enddate>2016-1-3</enddate>		<starttime>12:00</starttime>		<endtime>2:00</endtime>		<color>#ffb128</color>		<url></url>	</event>	<event>		<id>2</id>		<name>Another Event</name>		<startdate>2017-1-10</startdate>		<enddate></enddate>		<starttime></starttime>		<endtime></endtime>		<color>#28cbff</color>		<url></url>	</event>	<event>		<id>3</id>		<name>Another Event</name>		<startdate>2017-1-20</startdate>		<enddate>2017-1-22</enddate>		<starttime>9:00</starttime>		<endtime>10:00</endtime>		<color>#9cc370</color>		<url></url>	</event>	<event>		<id>4</id>		<name>Another Event</name>		<startdate>2017-2-20</startdate>		<enddate></enddate>		<starttime></starttime>		<endtime></endtime>		<color>#9f4b99</color>		<url></url>	</event>	<event>		<id>5</id>		<name>Another Event</name>		<startdate>2017-3-10</startdate>		<enddate>2017-3-11</enddate>		<starttime>9:00</starttime>		<endtime>10:00</endtime>		<color>#9cc370</color>		<url></url>	</event>	<event>		<id>6</id>		<name>Test</name>		<startdate>2019-7-1</startdate>		<enddate>2019-7-3</enddate>		<starttime></starttime>		<endtime></endtime>		<color>#9f4b99</color>		<url></url>	</event>	<event>		<id>7</id>		<name>임시휴관일</name>		<startdate>2019-08-07</startdate>		<enddate>2019-08-07</enddate>		<starttime></starttime>		<endtime></endtime>		<color>#9f4b99</color>		<url></url>	</event><event><id>8</id><name>테스트</name><startdate>2019-08-01</startdate><enddate>2019-08-03</enddate><starttime></starttime><endtime></endtime><color>#9f4b99</color><url></url></event><event><id>9</id><name>정기휴관일</name><startdate>2019-08-09</startdate><enddate>2019-08-09</enddate><starttime></starttime><endtime></endtime><color>#9f4b99</color><url></url></event>
+<event>
+<id>10</id>
+<name>광복절</name>
+<startdate>2019-08-15</startdate>
+<enddate>2019-08-15</enddate>
+<starttime></starttime>
+<endtime></endtime>
+<color>#9f4b99</color>
+<url></url>
+</event>
+</monthly>
